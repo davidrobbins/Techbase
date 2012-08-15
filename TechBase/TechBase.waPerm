@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="read" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.Event" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="5D53F744C6734DB99B4B7F6FA81AE317" resource="TechBase.Event" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="5D53F744C6734DB99B4B7F6FA81AE317" resource="TechBase.Event" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="5D53F744C6734DB99B4B7F6FA81AE317" resource="TechBase.Event" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="read" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.Ticket" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.Ticket" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.Ticket" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="398D7A0C6F0E43A0B407341EE920BFFE" resource="TechBase.Ticket" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupID="01000000000000000000000000000000" resource="TechBase.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupID="01000000000000000000000000000000" resource="TechBase.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupID="01000000000000000000000000000000" resource="TechBase.User" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>

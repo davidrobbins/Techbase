@@ -1,0 +1,1362 @@
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 17 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 15 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 38 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 6 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 12 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 118 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 27 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 67 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 26 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 12 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-03 09:59:00 [com.wakanda-software.TechBase] INFO - Solution started (duration: 146 ms)
+2012-07-03 10:09:14 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-03 10:09:14 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-03 10:09:15 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-07-03 10:09:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-03 10:09:17 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-03 10:09:17 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-07-03 10:09:17 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-03 10:09:17 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-03 10:09:17 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-03 10:09:18 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-03 10:09:18 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1217 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 67 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 125 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 29 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 70 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-03 10:09:28 [com.wakanda-software.TechBase] INFO - Solution started (duration: 145 ms)
+2012-07-03 10:41:31 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-03 10:41:31 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-03 10:41:32 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1160 ms)
+2012-07-03 10:41:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-03 10:41:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2056 ms)
+2012-07-03 10:41:34 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3216 ms)
+2012-07-03 10:41:34 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-03 10:41:34 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-03 10:41:34 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 408 ms)
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 667 ms)
+2012-07-03 10:41:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 917 ms)
+2012-07-03 10:41:36 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1987 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 17 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 28 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 105 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 64 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 63 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-03 13:19:09 [com.wakanda-software.TechBase] INFO - Solution started (duration: 144 ms)
+2012-07-03 15:20:08 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-03 15:20:08 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-03 15:20:10 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1148 ms)
+2012-07-03 15:20:10 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-07-03 15:20:12 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3196 ms)
+2012-07-03 15:20:12 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 408 ms)
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 402 ms)
+2012-07-03 15:20:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 426 ms)
+2012-07-03 15:20:13 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1242 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 14 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 68 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 59 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 21 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 53 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-06 14:55:09 [com.wakanda-software.TechBase] INFO - Solution started (duration: 129 ms)
+2012-07-06 14:56:02 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-06 14:56:02 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-06 14:56:03 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1048 ms)
+2012-07-06 14:56:03 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-07-06 14:56:05 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-07-06 14:56:05 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-06 14:56:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-06 14:56:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 407 ms)
+2012-07-06 14:56:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 409 ms)
+2012-07-06 14:56:06 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1222 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 12 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 42 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 65 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 119 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 64 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 14 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-07-11 09:17:57 [com.wakanda-software.TechBase] INFO - Solution started (duration: 143 ms)
+2012-07-11 09:18:24 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-11 09:18:24 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-11 09:18:25 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1049 ms)
+2012-07-11 09:18:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-07-11 09:18:27 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3099 ms)
+2012-07-11 09:18:27 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 405 ms)
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 406 ms)
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-11 09:18:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-11 09:18:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 494 ms)
+2012-07-11 09:18:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 495 ms)
+2012-07-11 09:18:28 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1308 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-13 08:01:08 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-13 08:01:08 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 31 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 27 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 57 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 20 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 25 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 151 ms)
+2012-07-13 08:01:08 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-13 08:01:08 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 27 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 196 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 70 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 73 ms)
+2012-07-13 08:01:09 [com.wakanda-software.TechBase] INFO - Solution started (duration: 398 ms)
+2012-07-13 10:01:59 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-13 10:01:59 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-13 10:02:00 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1169 ms)
+2012-07-13 10:02:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-07-13 10:02:02 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3222 ms)
+2012-07-13 10:02:02 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-13 10:02:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-13 10:02:03 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-07-13 10:02:03 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 433 ms)
+2012-07-13 10:02:03 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1248 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 28 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 43 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 84 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 6 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 11 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 171 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 75 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 13 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-16 14:54:19 [com.wakanda-software.TechBase] INFO - Solution started (duration: 149 ms)
+2012-07-16 15:01:48 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-16 15:01:48 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-16 15:01:49 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1050 ms)
+2012-07-16 15:01:49 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-07-16 15:01:52 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3104 ms)
+2012-07-16 15:01:52 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 405 ms)
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 406 ms)
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-16 15:01:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-16 15:01:53 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1219 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 17 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 36 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 50 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 160 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 59 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 13 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-18 09:02:47 [com.wakanda-software.TechBase] INFO - Solution started (duration: 136 ms)
+2012-07-18 09:19:35 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-18 09:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-18 09:19:36 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-07-18 09:19:36 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-18 09:19:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-18 09:19:38 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-07-18 09:19:38 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-18 09:19:38 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-18 09:19:38 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-18 09:19:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-18 09:19:40 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1221 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 16 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 38 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 55 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 17 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 135 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 31 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 85 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 30 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 65 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 17 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 19 ms)
+2012-07-19 08:21:53 [com.wakanda-software.TechBase] INFO - Solution started (duration: 188 ms)
+2012-07-19 09:12:30 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-19 09:12:30 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-19 09:12:31 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1051 ms)
+2012-07-19 09:12:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-19 09:12:33 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3101 ms)
+2012-07-19 09:12:33 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 409 ms)
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-19 09:12:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-19 09:12:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-19 09:12:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-19 09:12:34 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1222 ms)
+2012-07-25 08:49:32 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-25 08:49:32 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-25 08:49:32 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 34 ms)
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 37 ms)
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 84 ms)
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin.xbox] ERROR - [5] permissions error (on file open) (permErr).
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin.dbmg] ERROR - [1014] Cannot read data segment of database ServerAdmin
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin.dbmg] ERROR - [1011] Cannot open data file of database ServerAdmin
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin.iasv] ERROR - [1035] Cannot open the database
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.iasv] ERROR - [1013] Cannot open 'ServerAdmin' project
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-25 08:49:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 471 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 471 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.xbox] ERROR - [1] Address already in use (EADDRINUSE).
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.srvr] ERROR - [31] Failed to create a listening socket
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.srvr] ERROR - [12] Failed to start listener
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.xbox] ERROR - [5] permissions error (on file open) (permErr).
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.dbmg] ERROR - [1014] Cannot read data segment of database ServerAdmin
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.dbmg] ERROR - [1011] Cannot open data file of database ServerAdmin
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.iasv] ERROR - [1035] Cannot open the database
+2012-07-25 08:49:33 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 642 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 148 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 59 ms)
+2012-07-25 08:49:33 [com.wakanda-software.TechBase] INFO - Solution started (duration: 208 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 71 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 128 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 60 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 16 ms)
+2012-07-25 08:52:22 [com.wakanda-software.TechBase] INFO - Solution started (duration: 141 ms)
+2012-07-25 09:15:16 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-25 09:15:16 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-25 09:15:17 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1117 ms)
+2012-07-25 09:15:17 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2045 ms)
+2012-07-25 09:15:19 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3164 ms)
+2012-07-25 09:15:19 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 405 ms)
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-25 09:15:19 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-25 09:15:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-25 09:15:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-25 09:15:20 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1217 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-25 09:22:01 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-25 09:22:01 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 14 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 17 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 90 ms)
+2012-07-25 09:22:01 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-25 09:22:01 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 61 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-07-25 09:22:02 [com.wakanda-software.TechBase] INFO - Solution started (duration: 136 ms)
+2012-07-25 09:45:11 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-25 09:45:11 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-25 09:45:12 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1073 ms)
+2012-07-25 09:45:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-25 09:45:14 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-07-25 09:45:14 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3124 ms)
+2012-07-25 09:45:14 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-25 09:45:14 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-25 09:45:14 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 404 ms)
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 405 ms)
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-25 09:45:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 405 ms)
+2012-07-25 09:45:16 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1218 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-26 08:07:58 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-26 08:07:58 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 163 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 47 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 101 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 26 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 33 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 365 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 23 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 174 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 36 ms)
+2012-07-26 08:07:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-26 08:07:59 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 20 ms)
+2012-07-26 08:07:59 [com.wakanda-software.TechBase] INFO - Solution started (duration: 294 ms)
+2012-07-26 08:13:04 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-26 08:13:04 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-26 08:13:05 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1125 ms)
+2012-07-26 08:13:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-26 08:13:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2046 ms)
+2012-07-26 08:13:07 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3171 ms)
+2012-07-26 08:13:07 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-26 08:13:07 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-26 08:13:07 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-26 08:13:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 426 ms)
+2012-07-26 08:13:09 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1240 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 73 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 34 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 50 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 159 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 62 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-26 10:39:07 [com.wakanda-software.TechBase] INFO - Solution started (duration: 137 ms)
+2012-07-26 15:59:48 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-26 15:59:48 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-26 15:59:49 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-07-26 15:59:49 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-07-26 15:59:52 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3094 ms)
+2012-07-26 15:59:52 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 409 ms)
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-07-26 15:59:52 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 419 ms)
+2012-07-26 15:59:53 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1236 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-31 13:37:00 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-31 13:37:00 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 17 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 40 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 55 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 173 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 60 ms)
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-31 13:37:00 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 27 ms)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 14 ms)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 13:37:01 [com.wakanda-software.TechBase] INFO - Solution started (duration: 139 ms)
+2012-07-31 15:12:50 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-31 15:12:50 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-31 15:12:51 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1043 ms)
+2012-07-31 15:12:51 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-31 15:12:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2046 ms)
+2012-07-31 15:12:53 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3090 ms)
+2012-07-31 15:12:53 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-31 15:12:53 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-31 15:12:53 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-07-31 15:12:54 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-07-31 15:12:54 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 72 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 21 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 128 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 59 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 54 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 16:30:26 [com.wakanda-software.TechBase] INFO - Solution started (duration: 130 ms)
+2012-07-31 16:35:27 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-31 16:35:27 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-31 16:35:28 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-07-31 16:35:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-31 16:35:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-07-31 16:35:30 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3096 ms)
+2012-07-31 16:35:30 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-31 16:35:30 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-31 16:35:30 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 404 ms)
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 404 ms)
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-07-31 16:35:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-07-31 16:35:32 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1219 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 81 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 18 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 134 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 66 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-07-31 16:50:15 [com.wakanda-software.TechBase] INFO - Solution started (duration: 142 ms)
+2012-07-31 16:52:11 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-07-31 16:52:11 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-07-31 16:52:12 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-07-31 16:52:12 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-07-31 16:52:14 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-07-31 16:52:14 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-07-31 16:52:14 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-07-31 16:52:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 407 ms)
+2012-07-31 16:52:15 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 409 ms)
+2012-07-31 16:52:15 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-01 08:15:36 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-01 08:15:36 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-01 08:15:36 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 28 ms)
+2012-08-01 08:15:36 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-01 08:15:36 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 227 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 276 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 9 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 13 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 367 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 23 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 64 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 60 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 64 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 7 ms)
+2012-08-01 08:15:37 [com.wakanda-software.TechBase] INFO - Solution started (duration: 197 ms)
+2012-08-01 08:27:18 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-01 08:27:18 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-01 08:27:20 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-08-01 08:27:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2053 ms)
+2012-08-01 08:27:22 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3100 ms)
+2012-08-01 08:27:22 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-01 08:27:22 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-01 08:27:23 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1221 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 11 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 19 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 15 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 18 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 78 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 61 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-01 09:33:06 [com.wakanda-software.TechBase] INFO - Solution started (duration: 139 ms)
+2012-08-01 09:33:30 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-01 09:33:30 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-01 09:33:31 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-08-01 09:33:31 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-01 09:33:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-01 09:33:33 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3100 ms)
+2012-08-01 09:33:33 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-01 09:33:33 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-01 09:33:33 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 406 ms)
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-01 09:33:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-08-01 09:33:34 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1221 ms)
+2012-08-03 13:42:19 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 13:42:19 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 13:42:19 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 17 ms)
+2012-08-03 13:42:19 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 28 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 49 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 115 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 114 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 18 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 13:42:20 [com.wakanda-software.TechBase] INFO - Solution started (duration: 197 ms)
+2012-08-03 13:48:02 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 13:48:02 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 13:48:03 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1046 ms)
+2012-08-03 13:48:03 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 13:48:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-08-03 13:48:05 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3094 ms)
+2012-08-03 13:48:05 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 13:48:05 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 13:48:05 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 405 ms)
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-08-03 13:48:06 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 424 ms)
+2012-08-03 13:48:06 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1237 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 69 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 125 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 61 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 13:48:16 [com.wakanda-software.TechBase] INFO - Solution started (duration: 134 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 66 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 11 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 22 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 125 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 62 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 56 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 13:55:38 [com.wakanda-software.TechBase] INFO - Solution started (duration: 136 ms)
+2012-08-03 13:58:04 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 13:58:04 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 13:58:05 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1050 ms)
+2012-08-03 13:58:05 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-08-03 13:58:07 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3101 ms)
+2012-08-03 13:58:07 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 410 ms)
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 13:58:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 13:58:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-03 13:58:08 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-08-03 13:58:08 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-03 14:01:56 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 14:01:56 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 14:01:56 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 72 ms)
+2012-08-03 14:01:56 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 14:01:56 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 14:01:56 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-08-03 14:01:56 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-08-03 14:01:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 127 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 27 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 66 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 14:01:57 [com.wakanda-software.TechBase] INFO - Solution started (duration: 138 ms)
+2012-08-03 14:06:13 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 14:06:13 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 14:06:14 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1046 ms)
+2012-08-03 14:06:14 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2046 ms)
+2012-08-03 14:06:16 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3093 ms)
+2012-08-03 14:06:16 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 404 ms)
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 404 ms)
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 14:06:16 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 14:06:17 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-08-03 14:06:17 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 407 ms)
+2012-08-03 14:06:17 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1218 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 69 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 21 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 127 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 27 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 66 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 14:06:47 [com.wakanda-software.TechBase] INFO - Solution started (duration: 144 ms)
+2012-08-03 14:38:55 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 14:38:55 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 14:38:56 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1046 ms)
+2012-08-03 14:38:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 14:38:58 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-08-03 14:38:58 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3094 ms)
+2012-08-03 14:38:58 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 14:38:58 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 14:38:58 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 406 ms)
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-03 14:38:59 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 423 ms)
+2012-08-03 14:38:59 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1235 ms)
+2012-08-03 14:39:27 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 14:39:27 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 14:39:27 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 13 ms)
+2012-08-03 14:39:27 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 14:39:27 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 48 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 99 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 63 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 57 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 14:39:28 [com.wakanda-software.TechBase] INFO - Solution started (duration: 136 ms)
+2012-08-03 15:00:26 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 15:00:26 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 15:00:27 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1046 ms)
+2012-08-03 15:00:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-08-03 15:00:30 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3095 ms)
+2012-08-03 15:00:30 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 404 ms)
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 406 ms)
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 493 ms)
+2012-08-03 15:00:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 542 ms)
+2012-08-03 15:00:31 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1352 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 13 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 10 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 20 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 69 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 23 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 65 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-08-03 15:00:40 [com.wakanda-software.TechBase] INFO - Solution started (duration: 144 ms)
+2012-08-03 15:07:52 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 15:07:52 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 15:07:53 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-08-03 15:07:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2050 ms)
+2012-08-03 15:07:56 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-08-03 15:07:56 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 408 ms)
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-03 15:07:56 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-03 15:07:57 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1222 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 97 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 9 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 19 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 153 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 61 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-03 15:19:35 [com.wakanda-software.TechBase] INFO - Solution started (duration: 128 ms)
+2012-08-03 15:20:17 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-03 15:20:17 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-03 15:20:18 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1049 ms)
+2012-08-03 15:20:18 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-03 15:20:20 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-08-03 15:20:20 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3101 ms)
+2012-08-03 15:20:20 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-03 15:20:20 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-03 15:20:20 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 407 ms)
+2012-08-03 15:20:21 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 408 ms)
+2012-08-03 15:20:22 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 49 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 50 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 99 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 5 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 252 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 63 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 55 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 15 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-08 15:25:43 [com.wakanda-software.TechBase] INFO - Solution started (duration: 144 ms)
+2012-08-08 15:27:38 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-08 15:27:38 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-08 15:27:39 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1048 ms)
+2012-08-08 15:27:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-08 15:27:41 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3101 ms)
+2012-08-08 15:27:41 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-08 15:27:41 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-08 15:27:42 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-08-08 15:27:42 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 408 ms)
+2012-08-08 15:27:42 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 175 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 22 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 45 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 258 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 23 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 65 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 24 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 59 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 12 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-09 11:07:35 [com.wakanda-software.TechBase] INFO - Solution started (duration: 143 ms)
+2012-08-09 11:08:24 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-09 11:08:24 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-09 11:08:25 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-08-09 11:08:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2047 ms)
+2012-08-09 11:08:27 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3094 ms)
+2012-08-09 11:08:27 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 407 ms)
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 404 ms)
+2012-08-09 11:08:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 404 ms)
+2012-08-09 11:08:28 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1218 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 72 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 27 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 57 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 9 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 170 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 64 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 28 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-09 11:08:39 [com.wakanda-software.TechBase] INFO - Solution started (duration: 142 ms)
+2012-08-09 11:11:25 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-09 11:11:25 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-09 11:11:26 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1047 ms)
+2012-08-09 11:11:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2052 ms)
+2012-08-09 11:11:28 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3100 ms)
+2012-08-09 11:11:28 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 406 ms)
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 408 ms)
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-09 11:11:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-09 11:11:29 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-09 11:11:29 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 406 ms)
+2012-08-09 11:11:29 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1220 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 68 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 32 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 80 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 7 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 186 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 22 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 67 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 10 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 5 ms)
+2012-08-09 15:33:07 [com.wakanda-software.TechBase] INFO - Solution started (duration: 142 ms)
+2012-08-09 15:33:24 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-09 15:33:24 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-09 15:33:25 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1046 ms)
+2012-08-09 15:33:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-09 15:33:27 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2051 ms)
+2012-08-09 15:33:27 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3097 ms)
+2012-08-09 15:33:27 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-09 15:33:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-09 15:33:27 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 408 ms)
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 406 ms)
+2012-08-09 15:33:28 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 408 ms)
+2012-08-09 15:33:28 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-10 07:44:34 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-10 07:44:34 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 12 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 61 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 111 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 176 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 25 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 67 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 23 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 62 ms)
+2012-08-10 07:44:34 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-10 07:44:35 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 14 ms)
+2012-08-10 07:44:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-10 07:44:35 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 6 ms)
+2012-08-10 07:44:35 [com.wakanda-software.TechBase] INFO - Solution started (duration: 150 ms)
+2012-08-10 07:52:29 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-10 07:52:29 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-10 07:52:30 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1042 ms)
+2012-08-10 07:52:30 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-10 07:52:32 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2048 ms)
+2012-08-10 07:52:32 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3113 ms)
+2012-08-10 07:52:32 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-10 07:52:32 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-10 07:52:32 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 409 ms)
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 405 ms)
+2012-08-10 07:52:33 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 408 ms)
+2012-08-10 07:52:34 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1223 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Opening the solution
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Opening the users and groups directory
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Users and groups directory opened (duration: 19 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Opening the project
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Opening the database
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Database opened (duration: 61 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Project opened (duration: 132 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the project
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Opening the database
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database opened (duration: 4 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project opened (duration: 19 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Solution opened (duration: 211 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Starting the solution
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Starting the project
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Starting the HTTP server
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - HTTP server started (duration: 21 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Project started (duration: 82 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the project
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Starting the HTTP server
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - HTTP server started (duration: 22 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project started (duration: 58 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Executing the bootstrap(s)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.TechBase] INFO - Bootstrap(s) executed (duration: 14 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase.ServerAdmin] INFO - Bootstrap(s) executed (duration: 8 ms)
+2012-08-13 08:20:53 [com.wakanda-software.TechBase] INFO - Solution started (duration: 165 ms)
+2012-08-13 09:03:22 [com.wakanda-software.TechBase] INFO - Stopping the solution
+2012-08-13 09:03:22 [com.wakanda-software.TechBase.TechBase] INFO - Stopping the project
+2012-08-13 09:03:23 [com.wakanda-software.TechBase.TechBase] INFO - Project stopped (duration: 1089 ms)
+2012-08-13 09:03:23 [com.wakanda-software.TechBase.ServerAdmin] INFO - Stopping the project
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project stopped (duration: 2049 ms)
+2012-08-13 09:03:25 [com.wakanda-software.TechBase] INFO - Solution stopped (duration: 3139 ms)
+2012-08-13 09:03:25 [com.wakanda-software.TechBase] INFO - Closing the solution
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.TechBase] INFO - Closing the project
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.TechBase] INFO - Closing the database
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.TechBase] INFO - Database closed (duration: 407 ms)
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.TechBase] INFO - Project closed (duration: 410 ms)
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the project
+2012-08-13 09:03:25 [com.wakanda-software.TechBase.ServerAdmin] INFO - Closing the database
+2012-08-13 09:03:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Database closed (duration: 403 ms)
+2012-08-13 09:03:26 [com.wakanda-software.TechBase.ServerAdmin] INFO - Project closed (duration: 420 ms)
+2012-08-13 09:03:26 [com.wakanda-software.TechBase] INFO - Solution closed (duration: 1237 ms)
